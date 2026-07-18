@@ -1,0 +1,10 @@
+[server]
+# Serves ./static/ at /app/static/ — used by the hero video.
+enableStaticServing = true
+
+[theme]
+base = "light"
+backgroundColor = "#faf7f2"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1a1714"
+primaryColor = "#d97757"
