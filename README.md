@@ -8,7 +8,7 @@ BTP logs roughly 298,450 parking violation records across the city. Only 9.2% of
 
 Prototype Phase submitted ahead of the 23 Jun 2026 deadline.
 
-* Live demo: https://parkvision-20.streamlit.app/
+* Live demo:(https://parkvision-4.streamlit.app/)
 
 
 ## Run it locally
